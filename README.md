@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello there! I'm Martín
+I'm a Computer Science student from Rosario, Argentina.
 
-<!--
-**lMartin3/lMartin3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Portfolio: [www.martinl.dev](https://martinl.dev)
 
-Here are some ideas to get you started:
+⚠ For now, I don't have large projects on here, but you can take a look at these repositories:
+- [Better Shulker Boxes Rewritten](https://github.com/lMartin3/BetterShulkerBoxesRewritten)
+- [Better Party Crackers](https://github.com/lMartin3/BetterPartyCrackers)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗨 If you would like to see larger projects of mine please [contact me](https://martinl.dev/#contact)
+
+🛠 Skills:
+- Java
+- Spigot API
+- Spring
+- HTML, CSS, JS
+- NodeJS
+
+📖 Currently learning:
+- Docker
+- Kubernetes
+- AWS
+
+
