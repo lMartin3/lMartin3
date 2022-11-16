@@ -12,13 +12,11 @@ I'm a Computer Science student from Rosario, Argentina.
 🛠 Skills:
 - Java
 - Spigot API
-- Spring
+- Spring MVC
+- MyQSL, MongoDB, Redis, InfluxDB
+- Linux, Apache, Nginx, IPTables, UFW, FTP and general server administration
+- Docker, Kuberenetes and Fabric (kubernetes client api)
+- Jenkins (used for CI/CD pipelines)
+- Discord's API, discord.js and JDA
 - HTML, CSS, JS
-- NodeJS
-
-📖 Currently learning:
-- Docker
-- Kubernetes
-- AWS
-
-
+- NodeJS, NPM
