@@ -10,13 +10,13 @@ I'm a Computer Science student from Rosario, Argentina.
 🗨 If you would like to see larger projects of mine please [contact me](https://martinl.dev/#contact)
 
 🛠 Skills:
-- Java
+- Java, Kotlin and Swing
 - Spigot API
-- Spring MVC
+- NodeJS, NPM
+- Spring, Javalin, Express.JS
 - MyQSL, MongoDB, Redis, InfluxDB
-- Linux, Apache, Nginx, IPTables, UFW, FTP and general server administration
+- Linux, Apache, Nginx, IPTables, UFW, FTP, Certbot and general server administration
 - Docker, Kuberenetes and Fabric (kubernetes client api)
+- HTML, CSS, JS, Svelte and intermediate UI design
 - Jenkins (used for CI/CD pipelines)
 - Discord's API, discord.js and JDA
-- HTML, CSS, JS
-- NodeJS, NPM
