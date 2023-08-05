@@ -13,10 +13,11 @@ I'm a Computer Science student from Rosario, Argentina.
 - Java, Kotlin and Swing
 - Spigot API
 - NodeJS, NPM
-- Spring, Javalin, Express.JS
+- Spring
 - MyQSL, MongoDB, Redis, InfluxDB
 - Linux, Apache, Nginx, IPTables, UFW, FTP, Certbot and general server administration
-- Docker, Kuberenetes and Fabric (kubernetes client api)
-- HTML, CSS, JS, Svelte and intermediate UI design
-- Jenkins (used for CI/CD pipelines)
+- Docker
+- Kubernetes and Fabric (learning)
+- HTML, CSS, JS, Svelte (intermediate)
+- Jenkins (intermediate)
 - Discord's API, discord.js and JDA
