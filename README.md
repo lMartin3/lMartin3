@@ -1,23 +1,22 @@
 ### Hello there! I'm Martín
-I'm a Computer Science student from Rosario, Argentina.
+I'm a Systems Engineering student from Rosario, Argentina.
 
 🌐 Portfolio: [www.martinl.dev](https://martinl.dev)
 
-⚠ For now, I don't have large projects on here, but you can take a look at these repositories:
+⚠ I don't really have any meaningful projects in my public GitHub page, but these might be interesting if you're into Minecraft:
 - [Better Shulker Boxes Rewritten](https://github.com/lMartin3/BetterShulkerBoxesRewritten)
 - [Better Party Crackers](https://github.com/lMartin3/BetterPartyCrackers)
 
 🗨 If you would like to see larger projects of mine please [contact me](https://martinl.dev/#contact)
 
-🛠 Skills:
-- Java, Kotlin and Swing
-- Spigot API
-- NodeJS, NPM
-- Spring
-- MyQSL, MongoDB, Redis, InfluxDB
-- Linux, Apache, Nginx, IPTables, UFW, FTP, Certbot and general server administration
-- Docker
-- Kubernetes and Fabric (learning)
-- HTML, CSS, JS, Svelte (intermediate)
-- Jenkins (intermediate)
-- Discord's API, discord.js and JDA
+🏗️ What I do:
+- Minecraft plugin development (Spigot/Paper)
+- Spring boot development
+- General server administration (Setting up web servers, services, VPNs, docker containers, reverse proxies, firewalls, etc)
+
+
+🛠️ I also have experience with:
+- NodeJS and ExpressJS
+- Discord bots
+- Basic front-end development
+- Fabric mod development
